@@ -131,7 +131,6 @@ Completed the assigned SQL challenges on HackerRank, covering basic SQL querying
 ![Level 3 HackerRank Completion](Level-3-HackerRank-Completion.png)
 
 ### Level 4 - DataLemur
-
 Practiced Additional SQL challenges on DataLemur.
 
 ![Level 4 DataLemur Completion](Level-4-DataLemur-Completion.png)
