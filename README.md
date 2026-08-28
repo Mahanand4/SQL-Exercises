@@ -113,9 +113,14 @@ This practice strengthened my ability to write SQL queries, analyze relational d
 ## Completion Evidence
 
 Completed **60/60 SQL exercises** on W3Schools.
+## Level 1
 
 ![W3Schools SQL 60/60 Completion](./w3schools-sql-60-60.png)
 
 
+### Level 2 – SQL Practice
 
+Completed all required SQL exercises across Easy, Medium and Hard difficulty levels using the Hospital database.
+
+![Level 2 Completion Evidence](w3schools-sql-60-60.png)
 
