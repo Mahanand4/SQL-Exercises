@@ -109,3 +109,13 @@ This practice strengthened my ability to write SQL queries, analyze relational d
 ## Completion Status
 
 **Completed – All 5 SQL Practice Levels**
+
+## Completion Evidence
+
+Completed **60/60 SQL exercises** on W3Schools.
+
+![W3Schools SQL 60/60 Completion](./w3schools-sql-60-60.png)
+
+
+
+
