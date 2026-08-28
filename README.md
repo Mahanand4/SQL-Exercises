@@ -130,3 +130,5 @@ Completed the assigned SQL challenges on HackerRank, covering basic SQL querying
 
 ![Level 3 HackerRank Completion](Level-3-HackerRank-Completion.png)
 
+
+
