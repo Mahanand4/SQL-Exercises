@@ -124,3 +124,9 @@ Completed all required SQL exercises across Easy, Medium and Hard difficulty lev
 
 ![Level 2 Completion Evidence](w3schools-sql-60-60.png)
 
+### Level 3 - HackerRank
+
+Completed the assigned SQL challenges on HackerRank, covering basic SQL querying and data retrieval concepts.
+
+![Level 3 HackerRank Completion](Level-3-HackerRank-Completion.png)
+
